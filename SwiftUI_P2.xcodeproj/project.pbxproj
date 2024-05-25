@@ -11,6 +11,7 @@
 		8C42638E2C007E6E00ADDF1F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C42638D2C007E6E00ADDF1F /* ContentView.swift */; };
 		8C4263902C007E7000ADDF1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C42638F2C007E7000ADDF1F /* Assets.xcassets */; };
 		8C4263932C007E7000ADDF1F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C4263922C007E7000ADDF1F /* Preview Assets.xcassets */; };
+		8C42639A2C00918500ADDF1F /* TaskModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4263992C00918500ADDF1F /* TaskModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8C42638D2C007E6E00ADDF1F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8C42638F2C007E7000ADDF1F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8C4263922C007E7000ADDF1F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8C4263992C00918500ADDF1F /* TaskModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				8C42638B2C007E6E00ADDF1F /* SwiftUI_P2App.swift */,
+				8C4263992C00918500ADDF1F /* TaskModel.swift */,
 				8C42638D2C007E6E00ADDF1F /* ContentView.swift */,
 				8C42638F2C007E7000ADDF1F /* Assets.xcassets */,
 				8C4263912C007E7000ADDF1F /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C42639A2C00918500ADDF1F /* TaskModel.swift in Sources */,
 				8C42638E2C007E6E00ADDF1F /* ContentView.swift in Sources */,
 				8C42638C2C007E6E00ADDF1F /* SwiftUI_P2App.swift in Sources */,
 			);
